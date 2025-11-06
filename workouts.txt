@@ -1,0 +1,3 @@
+Yoga|MEDIUM|500.0
+Cross Lifting|HIGH|900.0
+Boxing|MEDIUM|670.0

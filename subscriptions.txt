@@ -1,0 +1,4 @@
+PREMIUM|Premium 30 Days|100.0|30|0.3
+STANDARD|Standar 30 Days|50.0|30
+PREMIUM|Premium 1 Year|1000.0|365|0.0
+STANDARD|Standard 1 Year|500.0|365
