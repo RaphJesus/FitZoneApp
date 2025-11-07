@@ -5,6 +5,8 @@ A robust and extensible Java console application for managing a chain of fitness
 
 ---
 
+Laboratory Homework by Andrusca Radu-Vasile (10LF241)
+
 ## ✨ Key Features
 
 The application provides a complete console interface to manage all operational aspects of the gym:
