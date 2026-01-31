@@ -1,3 +1,0 @@
-EMPLOYEE|Traian Basescu|Yoga|5000.0
-CONTRACTOR|Catalin Morosanu|Boxing|90.0
-EMPLOYEE|Nicusor Dan|Cross Lifting|900.0
